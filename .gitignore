@@ -304,6 +304,7 @@ paket-files/
 
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
+.pytest_cache/
 *.pyc
 
 # Cake - Uncomment if you are using it
@@ -348,3 +349,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Jupyter Notebook files
+.ipynb_checkpoints
